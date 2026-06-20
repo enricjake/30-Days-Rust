@@ -10,7 +10,7 @@ A structured journey into learning Rust systems programming, memory safety, and 
 
 ## Daily Progress Tracker
 
-- [ ] **Day 1:** Setup, Toolchain (`rustup`, `cargo`), and Hello World
+- [x] **Day 1:** Setup, Toolchain (`rustup`, `cargo`), and Hello World
 - [ ] **Day 2:** Variables, Mutability, and Scalar Types
 - [ ] **Day 3:** Functions and Control Flow
 - [ ] **Day 4:** Understanding Ownership & Scope
