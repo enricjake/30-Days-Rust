@@ -11,8 +11,8 @@ A structured journey into learning Rust systems programming, memory safety, and 
 ## Daily Progress Tracker
 
 - [x] **Day 1:** Setup, Toolchain (`rustup`, `cargo`), and Hello World
-- [ ] **Day 2:** Variables, Mutability, and Scalar Types
-- [ ] **Day 3:** Functions and Control Flow
+- [x] **Day 2:** Variables, Mutability, and Scalar Types
+- [x] **Day 3:** Functions and Control Flow
 - [ ] **Day 4:** Understanding Ownership & Scope
 - [ ] **Day 5:** References and Borrowing
 - [ ] **Day 6:** Slices and Data Types
